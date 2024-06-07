@@ -5,6 +5,7 @@
     💻 Python • Java • C++ • C# • HTML & CSS
     📖 Cyber Security
     🏢 NYC
+    💬 Discord: Atago_Is_Here
     🏳️‍⚧️ She/Her
 </pre>
 [![](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/atago6/)
