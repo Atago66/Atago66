@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=435&lines=Things+we+think+are+cool!" alt="Typing SVG" /></a>
 <pre>
-    💻 Python • Java • C++ • C# • HTML & CSS
+    💻 Python • Java • C++ • C# • HTML & CSS • Markdown
     📖 Cyber Security
     🏢 NYC
     💬 Discord: Atago_Is_Here
