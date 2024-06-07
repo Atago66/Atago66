@@ -15,3 +15,6 @@
 
 <img src="https://github.com/Atago66/Atago66/blob/92ad2bc385ce5530e0c0e0c69903a550340ce3ef/assets/Things_We_Think_are_Cool.webp" width="50%" align="bottom" />
 </div>
+
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://github.com/Atago66/Atago66/assets/63383267/beb43fd7-c915-4bad-aa50-15ed5bcb056d');]{x0000}$}
