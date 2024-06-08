@@ -18,5 +18,5 @@
 </table>
 </div>
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: -1px; left: -1px; height: 10000vh; object-fit: fill; background-posiiton: center center; width: 10000vw; opacity: 0.2; background: url('https://github.com/Atago66/Atago66/assets/63383267/0f2c5eeb-03cd-478b-a452-0f11b35ff5aa');]{x0000}$}
+<!--  ```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: -1px; left: -1px; height: 10000vh; object-fit: fill; background-posiiton: center center; width: 10000vw; opacity: 0.2; background: url('https://github.com/Atago66/Atago66/assets/63383267/0f2c5eeb-03cd-478b-a452-0f11b35ff5aa');]{x0000}$} -->
