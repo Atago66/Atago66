@@ -11,6 +11,9 @@
 [![](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/atago6/)
 [![](https://img.shields.io/badge/Twitter-00BFFF)](https://twitter.com/Atago_Is_Here)
 [![](https://img.shields.io/badge/Spotify-1ed760)](https://open.spotify.com/user/bm45qsdd06jyfwfnv8k2u4ys8?si=bmNCE5KuR9ajvIEGUit1NA)
+[![](https://img.shields.io/badge/Music_Diver-6a2de3)](https://mypage.musicdiver.jp/profile?view=player&key=NzA3MDM5MjMzNjQ2ODk2OQ==)
+[![](https://img.shields.io/badge/Mirage_Smoke_Guide-ffd0b0)](https://docs.google.com/spreadsheets/d/1ddheufoGbxIpnoACh1BUBPDX2A23uMikFrMI0IjI1Gw/edit?gid=1386834576#gid=1386834576)
+
 <table border='5px Solid WHite;'>
   <tr>
     <th><img src="https://github.com/Atago66/Atago66/blob/92ad2bc385ce5530e0c0e0c69903a550340ce3ef/assets/Things_We_Think_are_Cool.webp" width="50%" align="bottom"/></th>
