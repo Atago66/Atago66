@@ -1,6 +1,7 @@
 <div align="center">
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=ffffff&center=true&vCenter=true&random=false&width=435&lines=Things+we+think+are+cool!" alt="Typing SVG" /></a>
+<img src="https://github.com/Atago66/Atago66/blob/main/assets/Screenshot%202024-06-13%20224017.png"/>
 <h1>✨About Me✨</h1>
     📖 Cyber Security<br>
     🏢 NYC<br>
