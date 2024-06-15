@@ -8,6 +8,12 @@
     💬 Discord: Atago_Is_Here<br>
     🏳️‍⚧️ She/Her<br>
 <br>
+
+<a href="https://egirl.ing/" >
+    <img src="https://lanyard.kyrie25.me/api/711107996176089161?idleMessage=Let's&nbsp;lose&nbsp;track&nbsp;of&nbsp;the&nbsp;night&nbsp;and&nbsp;stay&nbsp;up&nbsp;til&nbsp;it's&nbsp;noon"/>
+</a>
+
+<br>
 <h1>✨Socials & Fun✨</h1>
 
 [![](https://img.shields.io/badge/Steam-blue)](https://steamcommunity.com/id/atago6/)
