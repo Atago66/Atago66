@@ -9,9 +9,7 @@
     🏳️‍⚧️ She/Her<br>
 <br>
 
-<a href="https://egirl.ing/" >
-    <img src="https://lanyard.kyrie25.me/api/711107996176089161?idleMessage=Let's&nbsp;lose&nbsp;track&nbsp;of&nbsp;the&nbsp;night&nbsp;and&nbsp;stay&nbsp;up&nbsp;til&nbsp;it's&nbsp;noon"/>
-</a>
+[![Discord Presence](https://lanyard.kyrie25.me/api/711107996176089161?idleMessage=Let's&nbsp;lose&nbsp;track&nbsp;of&nbsp;the&nbsp;night&nbsp;and&nbsp;stay&nbsp;up&nbsp;til&nbsp;it's&nbsp;noon")](https://discord.com/users/711107996176089161)
 
 <br>
 <h1>✨Socials & Fun✨</h1>
