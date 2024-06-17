@@ -5,7 +5,6 @@
 <h1>✨About Me✨</h1>
     📖 Cyber Security<br>
     🏢 NYC<br>
-    💬 Discord: Atago_Is_Here<br>
     🏳️‍⚧️ She/Her<br>
 <br>
 
